@@ -5,7 +5,10 @@
     height:110px;
     border: chartreuse 3px solid;
     border-radius: 10px;
-    width: 90%;
+    width: 30%;
+    height: 30%;
+    margin: 2px;
+    padding: 2px;
 }
 button:hover
 {
@@ -18,7 +21,10 @@ button:hover
     height:110px;
     border: chartreuse 3px solid;
     border-radius: 10px;
-    width: 90%;
+    height: 30%;
+    width: 30%;
+    margin: 2px;
+    padding: 2px;
 }
 .id3
 {
@@ -27,7 +33,10 @@ button:hover
     height:110px;
     border: chartreuse 3px solid;
     border-radius: 10px;
-    width: 90%;
+    height: 30%;
+    padding: 2px;
+    width: 30%;
+    margin: 2px;
 }
 .id4
 {
@@ -36,7 +45,10 @@ button:hover
     height:110px;
     border: chartreuse 3px solid;
     border-radius: 10px;
-    width: 90%;
+    height: 30%;
+    padding: 2px;
+    margin: 2px;
+    width: 30%;
 }
 .id5
 {
@@ -45,7 +57,10 @@ button:hover
     height:110px;
     border: chartreuse 3px solid;
     border-radius: 10px;
-    width: 90%;
+    height: 30%;
+    padding: 2px;
+    margin: 2px;
+    width: 30%;
 }
    p.id
    {
